@@ -2,8 +2,6 @@ import re
 import math
 import random
 import string
-import time
-
 
 def refresh(sel, gardon):
     for j in range(0, len(gardon.patterns)):
