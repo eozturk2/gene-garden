@@ -66,8 +66,8 @@ class Species:
 
 # patterns(array): Regular expressions exerting pressures on survival (simulates genome wide patterns)
 # pressures(array): Pressures exerted by the patterns (e.g. a genetic pattern for multiplying every tick
-# would have a pressure of 2.0, or a pattern compelling people to code would have a pressure of 0.2).
-# A genome is the convoluted product of these wide patterns, and (along with bad luck) predicts the
+# would have a pressure of 2.0, or a pattern coding for a harmful mutation would have a pressure of 0.2).
+# A genome is the product of these wide patterns, and (along with bad luck) predicts the
 # trends of populations of different species.
 #
 # A Garden is the circumstances under which genes express themselves. For example, in a polar environment, genes
